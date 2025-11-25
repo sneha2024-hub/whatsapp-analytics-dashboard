@@ -1,4 +1,4 @@
-### 📊 WhatsApp Analytics Dashboard
+# 📊 WhatsApp Analytics Dashboard
 
 A clean and interactive WhatsApp Conversation Analytics Dashboard built using Python, Streamlit, Pandas, Matplotlib, and Seaborn.
 This tool transforms raw exported WhatsApp chats into meaningful insights such as activity patterns, message trends, heatmaps, emoji usage, and conversation behaviour analytics.
@@ -7,7 +7,7 @@ Perfect for data analysis, portfolio projects, and learning real-world text proc
 
 ## 🚀 Features
 
-# 🔹 Top-Level Statistics
+### 🔹 Top-Level Statistics
 
 Total messages
 
@@ -17,7 +17,7 @@ Media shared
 
 Links shared
 
-# 🔹 Advanced Insights
+### 🔹 Advanced Insights
 
 Average message length
 
@@ -27,13 +27,13 @@ Most active day of the week
 
 Hourly activity patterns
 
-# 🔹 Timelines
+### 🔹 Timelines
 
 Daily message timeline
 
 Monthly message timeline
 
-# 🔹 Activity Visuals
+### 🔹 Activity Visuals
 
 Weekly activity heatmap
 
@@ -41,13 +41,13 @@ Busiest days
 
 Busiest months
 
-# 🔹 Text Analysis
+### 🔹 Text Analysis
 
 Word Cloud
 
 Most frequently used words
 
-🔹 Emoji Breakdown
+###🔹 Emoji Breakdown
 
 Emoji frequency table
 
@@ -73,18 +73,18 @@ Emoji
 
 ## 📦 Installation
 
-# 1️⃣ Clone the repo
+### 1️⃣ Clone the repo
 git clone https://github.com/your-username/whatsapp-analytics-dashboard.git
 cd whatsapp-analytics-dashboard
 
-# 2️⃣ Create a virtual environment (recommended)
+### 2️⃣ Create a virtual environment (recommended)
 python3 -m venv venv
 source venv/bin/activate
 
-# 3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-# ▶️ How to Run
+### ▶️ How to Run
 streamlit run app.py
 
 
@@ -143,6 +143,6 @@ User-interaction graph
 
 ## 👩‍💻 Author
 
-Sneha H
-Data Analyst & Cybersecurity Enthusiast
-Bengaluru, India
+### Sneha H
+### Data Analyst & Cybersecurity Enthusiast
+### Bengaluru, India
