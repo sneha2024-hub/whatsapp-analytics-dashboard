@@ -1,12 +1,13 @@
-📊 WhatsApp Analytics Dashboard
+### 📊 WhatsApp Analytics Dashboard
 
 A clean and interactive WhatsApp Conversation Analytics Dashboard built using Python, Streamlit, Pandas, Matplotlib, and Seaborn.
 This tool transforms raw exported WhatsApp chats into meaningful insights such as activity patterns, message trends, heatmaps, emoji usage, and conversation behaviour analytics.
 
 Perfect for data analysis, portfolio projects, and learning real-world text processing.
 
-🚀 Features
-🔹 Top-Level Statistics
+## 🚀 Features
+
+# 🔹 Top-Level Statistics
 
 Total messages
 
@@ -16,7 +17,7 @@ Media shared
 
 Links shared
 
-🔹 Advanced Insights
+# 🔹 Advanced Insights
 
 Average message length
 
@@ -26,13 +27,13 @@ Most active day of the week
 
 Hourly activity patterns
 
-🔹 Timelines
+# 🔹 Timelines
 
 Daily message timeline
 
 Monthly message timeline
 
-🔹 Activity Visuals
+# 🔹 Activity Visuals
 
 Weekly activity heatmap
 
@@ -40,7 +41,7 @@ Busiest days
 
 Busiest months
 
-🔹 Text Analysis
+# 🔹 Text Analysis
 
 Word Cloud
 
@@ -52,7 +53,7 @@ Emoji frequency table
 
 Pie chart visualization
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 Python
 
@@ -70,19 +71,20 @@ URLExtract
 
 Emoji
 
-📦 Installation
-1️⃣ Clone the repo
+## 📦 Installation
+
+# 1️⃣ Clone the repo
 git clone https://github.com/your-username/whatsapp-analytics-dashboard.git
 cd whatsapp-analytics-dashboard
 
-2️⃣ Create a virtual environment (recommended)
+# 2️⃣ Create a virtual environment (recommended)
 python3 -m venv venv
 source venv/bin/activate
 
-3️⃣ Install dependencies
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-▶️ How to Run
+# ▶️ How to Run
 streamlit run app.py
 
 
@@ -90,7 +92,7 @@ The app will open at:
 
 http://localhost:8501
 
-📁 How to Export WhatsApp Chat
+## 📁 How to Export WhatsApp Chat
 
 On WhatsApp:
 
@@ -107,7 +109,7 @@ Example input format:
 [12/05/24, 10:45 pm] Sneha: Hey, what's up?
 [12/05/24, 10:46 pm] Buddy: Working 😄
 
-🖼 Screenshots
+## 🖼 Screenshots
 
 If you added images inside an assets/ folder, include:
 
@@ -119,7 +121,7 @@ If you added images inside an assets/ folder, include:
 ![Emoji Analysis](assets/emoji_analysis.png)
 ![Common Words](assets/common_words.png)
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 Works only with WhatsApp .txt exports
 
@@ -127,7 +129,7 @@ Large chats (1L+ messages) may load slowly
 
 Media messages (<Media omitted>) cannot be displayed
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Sentiment analysis
 
@@ -139,7 +141,7 @@ PDF/HTML report export
 
 User-interaction graph
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Sneha H
 Data Analyst & Cybersecurity Enthusiast
