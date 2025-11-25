@@ -108,6 +108,7 @@ Upload the .txt file in the dashboard sidebar
 Example input format:
 
 [12/05/24, 10:45 pm] Sneha: Hey, what's up?
+
 [12/05/24, 10:46 pm] Buddy: Working 😄
 
 ## ⚠️ Limitations
