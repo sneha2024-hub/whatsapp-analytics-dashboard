@@ -75,6 +75,7 @@ Emoji
 
 ### 1️⃣ Clone the repo
 git clone https://github.com/your-username/whatsapp-analytics-dashboard.git
+
 cd whatsapp-analytics-dashboard
 
 ### 2️⃣ Create a virtual environment (recommended)
@@ -132,5 +133,5 @@ User-interaction graph
 ## 👩‍💻 Author
 
 ### Sneha H
-### Data Analyst & Cybersecurity Enthusiast
+### Data Analyst 
 ### Bengaluru, India
