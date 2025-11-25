@@ -109,18 +109,6 @@ Example input format:
 [12/05/24, 10:45 pm] Sneha: Hey, what's up?
 [12/05/24, 10:46 pm] Buddy: Working 😄
 
-## 🖼 Screenshots
-
-If you added images inside an assets/ folder, include:
-
-![Dashboard](assets/dashboard.png)
-![Statistics](assets/statistics.png)
-![Daily Timeline](assets/daily_timeline.png)
-![Monthly Timeline](assets/monthly_timeline.png)
-![Heatmap](assets/heatmap.png)
-![Emoji Analysis](assets/emoji_analysis.png)
-![Common Words](assets/common_words.png)
-
 ## ⚠️ Limitations
 
 Works only with WhatsApp .txt exports
