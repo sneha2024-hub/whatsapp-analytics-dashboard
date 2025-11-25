@@ -47,7 +47,7 @@ Word Cloud
 
 Most frequently used words
 
-###🔹 Emoji Breakdown
+### 🔹 Emoji Breakdown
 
 Emoji frequency table
 
